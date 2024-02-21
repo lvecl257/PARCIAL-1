@@ -1,0 +1,38 @@
+html
+{
+    background-color: #c1f3cd;
+    width: 1253px;
+    border: rgb(91, 245, 135) 5px solid;
+}
+body
+{
+    font-family: cursive;
+    font-size: medium;
+}
+table.tabla
+{
+    font-size: 90%;
+    color: rgb(19, 19, 19);
+    width: 410px;
+    background-color: #a8fcfa;
+    border-color: rgb(132, 240, 60);
+}
+h1
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgba(88, 146, 67, 0.854);
+    text-align: center;
+    letter-spacing: .2em;
+}
+p
+{
+    text-align: center;
+    width: 410px;
+    border: rgb(13, 237, 9) 2px solid;
+    margin: auto;
+}
+p.nombre
+{
+    font-family: cursive;
+    font-size: small;
+}
