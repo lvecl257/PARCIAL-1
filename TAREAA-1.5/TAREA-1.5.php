@@ -65,6 +65,6 @@ $porcentajeA=($cont3 * 100)/$arreg;
 echo "<br> <hr>";
 echo "EL PORCENTAJE DE ALUNMOS APROBADOS DEL CBTIS 217 ES :  ", round($porcentajeA, 5), "%";
 
-#Desviación estándar de las calificaciones
+#SOLO ME SALIERON LOS PRIMEROS 5 PASOS :)
 
 ?>
