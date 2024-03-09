@@ -1,0 +1,44 @@
+html
+{
+    background-color: #ebaefb;
+    width: 1253px;
+    border: rgb(212, 17, 134) 5px solid;
+}
+body
+{
+    font-family: cursive;
+    font-size: medium;
+}
+table.tabla
+{
+    font-size: 90%;
+    color: rgb(19, 19, 19);
+    width: 410px;
+    background-color: #eef0f4;
+    border-color: rgb(250, 67, 131);
+}
+h1
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgba(178, 45, 180, 0.854);
+    text-align: center;
+    letter-spacing: .2em;
+}
+p
+{
+    text-align: center;
+    width: 410px;
+    border: rgb(237, 9, 172) 2px solid;
+    margin: auto;
+}
+p.nombre
+{
+    font-family: cursive;
+    font-size: small;
+}
+h2.pg
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: smaller;
+    color: blueviolet;
+}
