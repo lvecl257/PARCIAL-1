@@ -1,0 +1,14 @@
+html
+{
+    text-align: center;
+    align-items: center;
+    color: aliceblue;
+    font-size: 50px;
+    font-family: cursive;
+    background: linear-gradient(to bottom, rgb(12, 12, 12), rgb(98, 40, 235), rgb(195, 97, 252), rgb(238, 108, 238), rgb(250, 21, 200), rgb(0, 0, 0));
+}
+input
+{
+    background-color: rgb(237, 194, 243);
+    box-shadow: rgb(12, 12, 12);
+}
